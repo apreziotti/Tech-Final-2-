@@ -1,3 +1,3 @@
 # Tech-Final-2-
 
-<iframe src="https://docs.google.com/spreadsheets/d/1-7XYHayr7Eac-1gJws-BLMoCAyIBGbFGyKz0odDaD-Q/pubhtml?gid=669840145&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
+<iframe src="https://docs.google.com/spreadsheets/d/1-7XYHayr7Eac-1gJws-BLMoCAyIBGbFGyKz0odDaD-Q/pubhtml?widget=true&amp;headers=false"></iframe>
